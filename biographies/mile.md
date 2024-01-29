@@ -6,4 +6,4 @@ date: 2024-01-24
 Hey, my name is Mile.
 
 
-[<img src="https://github.com/meilynbear/meilynbear.github.io/assets/154385769/1e5d5e6d-0c11-4ed8-aae9-86f811439da7" width="300" height="500" />
+<img src="https://github.com/meilynbear/meilynbear.github.io/assets/154385769/1e5d5e6d-0c11-4ed8-aae9-86f811439da7" width="300" height="500" />
