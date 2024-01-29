@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home Page
+date: January 29, 2024
 ---
 
