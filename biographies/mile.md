@@ -1,10 +1,6 @@
 ---
 title: "Mile"
----
----
 date: 2023-12-23
----
----
 description: Hey, my name is Mile.
 ---
 
